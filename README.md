@@ -3,7 +3,7 @@
 The purpose of work is to research different implementatons of melanoma recognition on the picture.
 Moreover, in the end we should have trained model on our dataset.
 
-Dataset was created by compitation [https://doi.org/10.7910/DVN/DBW86T] and [https://challenge2020.isic-archive.com/] courses.
+Dataset was created by compilation [https://doi.org/10.7910/DVN/DBW86T] and [https://challenge2020.isic-archive.com/] sourses.
 
 The first model in dataset.ipynb has accuracy on test images ~ 0.75
 
