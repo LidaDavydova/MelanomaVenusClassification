@@ -5,6 +5,15 @@ Moreover, in the end we should have trained model on our dataset.
 
 Dataset was created by compilation [https://doi.org/10.7910/DVN/DBW86T] and [https://challenge2020.isic-archive.com/] sourses.
 
+## Try it
+
+In file testModel.ipynb you can check model on your images
+
+### Web site:
+http://89.169.135.79:5000/
+
+### Telegram Bot:
+https://t.me/AntiMelonomabot
 
 ## About models
 
@@ -19,7 +28,8 @@ The first model kerasSimple.h5 in dataset.ipynb has accuracy on test images ~ 0.
 It consist of 3 layers of convolution
 
 ### Statistic of training and validation for model:
-![Screenshot from 2024-02-13 19-28-26](https://github.com/LidaDavydova/MelanomaVenusClassification/assets/79317010/0aa3660f-adec-4b01-9412-bec9179bba24)
+
+![image](https://github.com/user-attachments/assets/3fb66287-40b0-4775-854b-e7f84037a2b0)
 
 The second model model_keras_2_1.keras in dataset.ipynb has accuracy on test images ~ 0.82
 
@@ -28,7 +38,8 @@ The second model model_keras_2_1.keras in dataset.ipynb has accuracy on test ima
 It consist of 3 layers of convolution
 
 ### Statistic of training and validation for model:
-![Screenshot from 2024-08-17 20-52-02](https://github.com/user-attachments/assets/c5c58433-b7a0-4287-b016-9061e2207aad)
+
+![Screenshot from 2024-08-17 20-52-02](https://github.com/user-attachments/assets/c351b612-8a96-4482-84cb-f28148ebe60c)
 
 
 ## Parameterized data from images classification models
@@ -40,7 +51,8 @@ It depends of quality of the **image classification model**
 **model_sklearn_1_0.pkl** in folder _models/_
 
 ### Statistic of trained model:
-![Screenshot from 2024-08-17 21-20-51](https://github.com/user-attachments/assets/2d36204b-520d-4182-a896-232db1369804)
+![Screenshot from 2024-08-17 21-20-51](https://github.com/user-attachments/assets/761bfe4e-0872-41f8-b2e4-1467974547d9)
+
 
 ## Try it
 
