@@ -42,5 +42,12 @@ It depends of quality of the **image classification model**
 ### Statistic of trained model:
 ![Screenshot from 2024-08-17 21-20-51](https://github.com/user-attachments/assets/2d36204b-520d-4182-a896-232db1369804)
 
+## Try it
 
-## In file testModel.ipynb you can check model on your images
+In file testModel.ipynb you can check model on your images
+
+### Web site:
+http://89.169.135.79:5000/
+
+### Telegram Bot:
+https://t.me/AntiMelonomabot
